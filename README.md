@@ -19,14 +19,14 @@ Ce TP a pour but l'initiation: des étudiants en mastère, des doctorants et év
 
 Caractéristiques générales de Python:
 
-* ** Langage simple: ** facile à lire et à apprendre avec une syntaxe minimaliste.
-* ** Langage concis et expressif: ** moins de lignes de code, moins de bugs, plus facile à maintenir.
+* **Langage simple:** facile à lire et à apprendre avec une syntaxe minimaliste.
+* **Langage concis et expressif:** moins de lignes de code, moins de bugs, plus facile à maintenir.
 
 Détails techniques:
 
-* ** Typé dynamiquement: ** Pas besoin de définir le type des variables, les arguments ou le type des fonctions.
-* ** La gestion automatique de la mémoire: ** Aucune nécessité d'allouer explicitement et désallouer la mémoire pour les variables et les tableaux de données. Aucun bug de fuite de mémoire.
-* ** Interprété: ** Pas besoin de compiler le code. L'interpréteur Python lit et exécute le code python directement.
+* **Typé dynamiquement:** Pas besoin de définir le type des variables, les arguments ou le type des fonctions.
+* **La gestion automatique de la mémoire:** Aucune nécessité d'allouer explicitement et désallouer la mémoire pour les variables et les tableaux de données. Aucun bug de fuite de mémoire.
+* **Interprété:** Pas besoin de compiler le code. L'interpréteur Python lit et exécute le code python directement.
 
 ### Avantages:
 
