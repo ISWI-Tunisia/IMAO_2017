@@ -1,4 +1,4 @@
-# Ecole IMAO 2017
+# École IMAO-Abidjan 2017
 TP ([Tutoriel SID & GOES.ipynb](http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb)) Python pour l'école de météorologie de l'espace IMAO (ISWI Maghreb Afrique de l’Ouest) - Abidjan 2017
 
 <center><h1>Introduction à Python</h1></center>
