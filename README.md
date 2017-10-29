@@ -1,6 +1,6 @@
 # École IMAO-Abidjan 2017
 TP ([Tutoriel SID & GOES.ipynb](http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb)) Python pour l'école de météorologie de l'espace IMAO (ISWI Maghreb Afrique de l’Ouest) - Abidjan 2017.
-![Photo du groupe](images/IMAO_group.png)
+![Photo du groupe](images/IMAO_groupe.jpeg)
 <center><h1>Introduction à Python</h1></center>
 Ce TP a pour but l'initiation: des étudiants en mastère, des doctorants et éventuellement des enseignants, à l'utilisation de Python pour apprendre à développer des codes interfacés et adaptés à leurs projets d'étude. Les avantages de python sont multiples:
     
